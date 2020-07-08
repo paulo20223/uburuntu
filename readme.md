@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌐 Website: [rmbk.me](https://rmbk.me)
+- 👥 LinkedIn: [linkedin.com/in/rmbk](https://linkedin.com/in/rmbk)
+- ⚡ Fun fact: follow the [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+![Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuburuntu)
+
 <!--
 **uburuntu/uburuntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
