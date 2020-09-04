@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+![Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuburuntu)
+
 - 🌐 Website: [rmbk.me](https://rmbk.me)
 - 👥 LinkedIn: [linkedin.com/in/rmbk](https://linkedin.com/in/rmbk)
 - ⚡ Fun fact: follow the [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuburuntu)
+![](https://github-readme-stats.vercel.app/api?username=uburuntu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uburuntu&layout=compact&hide_border=true&hide=fortran)
 
 <!--
 **uburuntu/uburuntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
