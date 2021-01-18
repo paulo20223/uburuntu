@@ -8,8 +8,6 @@
 - 🌐 Website: [rmbk.me](https://rmbk.me)
         
 - 👥 LinkedIn: [linkedin.com/in/rmbk](https://linkedin.com/in/rmbk)
-        
-- ⚡ Fun fact: follow the [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)      
     </td>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=uburuntu&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" />
     </td>
